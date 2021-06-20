@@ -24,7 +24,8 @@ num = 20.9
 puts num.floor()
 
 # absolute value
-num -20 = abs()
+num = -20
+puts num.abs()
 
 num 20.9
 puts Math.sqrt(num)
