@@ -16,9 +16,9 @@ class Student
 end
 
 students = [
-  student1 = Student.new("Tiffany", "Web Development", 4.0),
-  student2 = Student.new("Pam", "Art", 3.6),
-  student3 = Student.new("Jim", "Business", 2.6)
+  Student.new("Tiffany", "Web Development", 4.0),
+  Student.new("Pam", "Art", 3.6),
+  Student.new("Jim", "Business", 2.6)
 ]
 
 students.each do |student|
